@@ -20,8 +20,8 @@ Baseado no dolar hoje o **Conversor de Moedas** tem o propósito de fazer a conv
   </a>
 
   <!-- Vue.js -->
-  <a href="" target="_blank">
-    <img alt="Vue.js" src="https://img.shields.io/badge/JavaScript%20-USED-%233CB371">
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-USED-%233CB371">
   </a>
 
 </div> 
